@@ -1,3 +1,14 @@
+# 生活保護ナビ（試作）
+
+生活保護の相談・申請に向けて、
+「次にやること」を3分で整理するチェックツール。
+
+- 登録不要
+- 連絡先入力なし
+- 不正受給を助長しません
+
+※ 本ツールは準備と整理を支援する目的で作られています。
+最終判断は自治体が行います。
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
